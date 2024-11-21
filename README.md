@@ -150,7 +150,7 @@ La API incluye documentación generada automáticamente con Swagger. Accede a el
 2. Ejecuta el proyecto en Visual Studio 2022.
 3. Accede a la API en `https://localhost:{puerto}/api/Productos`.
 
-# © 2024 [Tu Nombre o Tu Empresa]. Todos los derechos reservados.
+© 2024 [Tu Nombre o Tu Empresa]. Todos los derechos reservados.
 
 Este proyecto está protegido por leyes de derechos de autor y tratados internacionales. La reproducción, distribución o modificación de cualquier parte de este proyecto sin el permiso explícito del propietario está estrictamente prohibida.
 
