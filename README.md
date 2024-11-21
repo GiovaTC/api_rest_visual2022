@@ -1,9 +1,8 @@
 # apirestVisual2022
 
-![image](https://github.com/user-attachments/assets/2821a5be-a617-4529-8149-5456ea62710d)
-
 ![image](https://github.com/user-attachments/assets/c46f5b3a-55a0-4f58-84e6-dc8fdb18b7cd)
 
+![image](https://github.com/user-attachments/assets/2821a5be-a617-4529-8149-5456ea62710d)
 
 # Documentación de la API REST
 
